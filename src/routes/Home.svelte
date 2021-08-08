@@ -55,7 +55,8 @@
 			<div class="container">
 				<div class="columns has-text-centered is-centered">
 					<div class="column is-9-tablet is-half-widescreen">
-						<p class="title is-2">
+						<img src="./bar-logo.svg" alt="logo">
+						<p class="title is-2" id="top-line">
 							Send secure messages through a one-time link!
 						</p>
 						<p class="is-size-5">
@@ -93,4 +94,7 @@
 </main>
 
 <style>
+	#top-line {
+		padding-top: 3em;
+	}
 </style>

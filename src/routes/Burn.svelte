@@ -56,6 +56,7 @@ onMount(async () => {
 			<div class="container">
 				<div class="columns has-text-centered is-centered">
 					<div class="column is-9-tablet is-half-widescreen">
+						<img src="./bar-logo.svg" alt="logo">
 						<div class="section">
 							{#if exists === false}
 							<NotFound />
