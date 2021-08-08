@@ -1,16 +1,6 @@
-# SBB - Svelte-Bulma-Boilerplate
-SBB is a template for quickly bootstrapping Svelte apps with Bulma. Simply press the "Use this template" button to start your next project!
+# Burn After Reading
+App that lets you send sensitive information through a one time link. Simply enter your message, click generate, and send the link to a friend!
 
-## What comes with SBB?
-* Svelte
-* Bulma library
-* [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - basic routing support for svelte app
-* Configured Navbar component
-* Basic route setup
-* scss file with starter imports
-
-## Getting started
-* Click "Use this template" to start your new repo
-* Run `npm ci` to install dependencies
-* Run `npm run build-css` to compile scss
-* Start with `npm run dev`
+## Credits
+* Icons provided, unmodified, by [Font Awesome](https://fontawesome.com) under <a href="https://fontawesome.com/license">their licese.</a>
+* Favicon made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
