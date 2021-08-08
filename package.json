@@ -1,5 +1,5 @@
 {
-  "name": "svelte-bulma-boilerplate",
+  "name": "burn-after-reading",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -22,6 +22,9 @@
     "svelte-spa-router": "^3.1.0"
   },
   "dependencies": {
-    "sirv-cli": "^1.0.0"
+    "mongodb": "^4.1.0",
+    "sirv-cli": "^1.0.0",
+    "uuid": "^8.3.2",
+    "uuid-validate": "0.0.3"
   }
 }
